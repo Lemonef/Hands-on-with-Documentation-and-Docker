@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+.eggs/
+.Python
+env/
+venv/
+ENV/
+.venv/
+.idea/
+.vscode/
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+wheels/
+*.egg-info/
+.installed.cfg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# Environment variables
+*.env
+.env.*
+
+# macOS (if using Mac)
+.DS_Store
+
+# Docker
+*.tar
+docker-compose.override.yml
+
+# VS Code settings
+.vscode/
